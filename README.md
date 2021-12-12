@@ -12,7 +12,7 @@ DATASET
    Plot of the stationary dataset's STORAGE_CONSD_IN_OUT.
 
 
-Autoregression model-
+AUTO REGRESSION MODEL
 1.The dataset is trained on the above model splitting into training and test data(80:20) ratio.
 AutoReg adds the ability to specify exogenous variables, include time trends,
 and add seasonal dummies.
